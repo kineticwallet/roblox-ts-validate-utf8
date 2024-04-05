@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/validate-utf8",
-	"version": "1.0.0-ts.1",
+	"version": "1.0.0-ts.2",
 	"description": "Easily validate a string against bad characters.",
 	"main": "dist/init.lua",
 	"keywords": ["string", "validate", "utf8", "security", "character"],
@@ -27,8 +27,5 @@
 		"rbxts-transformer-services": "^1.1.1",
 		"roblox-ts": "^2.3.0",
 		"typescript": "=5.2.2"
-	},
-	"dependencies": {
-		"@rbxts/services": "^1.5.4"
 	}
 }
